@@ -1,0 +1,25 @@
+Intro to back end unit outline
+Last revised: August 14, 2015
+
+Daily objectives: Day 1 - Day 20
+
+Students will understand the basic components of the web’s infrastructure
+Students will use variables to represent values
+Students will use operators to perform operations on simple values
+Students will use if statements to implement basic decision making
+Students will use if statements to implement complex decision making
+Students will use loops to repeat blocks of code
+Students will use arrays to represent groups of related data
+Students will use loops to iterate over arrays and strings
+Students will use associative arrays to represent groups of related data
+Students will create functions to group related sections of code
+Students will write to and read from files on the filesystem
+Students will create, traverse, and serialize nested structures
+Students will use HTML forms to gather user input
+Students will use PHP to process user input from HTML forms
+Students will use PHP to perform HTTP requests
+Students will use HTTP requests to interact with JSON APIs
+Students will implement a user authentication system
+Students will implement a user authorization system
+Students will use Firebase as a persistent data store
+Students will initiate AJAX requests and callbacks using jQuery
