@@ -116,6 +116,10 @@ Important Vocabulary:
 
 Students will read about operators:
 
+* http://www.tizag.com/phpT/operators.php
+* http://www.hackingwithphp.com/3/12/3/complete-operator-list (Skip Bitwise Operators)
+* http://www.w3schools.com/php/php_operators.asp (Skip Array Operators)
+
 
 ### Exercise 1
 
