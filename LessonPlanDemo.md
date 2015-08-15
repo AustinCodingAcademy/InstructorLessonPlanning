@@ -89,7 +89,7 @@ For each question below, store your answer to the question in an appropriately n
 * misconception `=` vs. `==`
 * Students will look up this web page:  http://php.net/manual/en/language.variables.basics.php
 
-* Students will define 3 variables that represent strings and 3 variables that represent integers based on the info they get from the website. 
+**Exercise** Define 3 variables that represent strings and 3 variables that represent integers based on the info you find on the website. 
  
 ### Elaborate
 
