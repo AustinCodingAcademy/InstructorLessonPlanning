@@ -161,3 +161,4 @@ For each question below, store your answer to the question in an appropriately n
 9. What is your favorite number?
 10. What is the product of 1,234 and 845?
 11. If you have $500 in your bank account and a deposit of $750 is made, how much is now in your bank account? (Include currency in your answer)
+   
