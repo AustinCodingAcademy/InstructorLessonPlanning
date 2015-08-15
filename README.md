@@ -1,2 +1,3 @@
-# InstructorLessonPlanning
-Lesson planning guides for ACA instructors
+# Lesson Planning Resources
+
+Lesson planning resources for ACA instructors
