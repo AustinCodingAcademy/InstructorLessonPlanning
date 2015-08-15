@@ -1,60 +1,69 @@
-Lesson Plan Demo
-5E Model Lesson Plan – Lofton and Joe
+# 5E Model Lesson Plan – Lofton and Joe
  
-Objective: Students will use variables to represent values.
-Assessment: Create 5 variables that represent integers and 5 that represent strings. Write a paragraph in which you reference the 10 of the variables in their appropriate. 
-Homework Assignment (10 hours/week):
-Students will read about variables and values from the following specific articles and make detailed notes of each article. They will save these notes in a folder entitled “ACABackEndIntro” named “Variables_8_16_2015.txt”:
-http://www.tutorialspoint.com/php/php_variable_types.htm 
-http://www.tizag.com/phpT/echo.php 
-http://php.net/manual/en/language.variables.basics.php (Up to “User Contributed Notes”)
-http://stackoverflow.com/questions/505642/escape-html-to-php-or-use-echo-which-is-better
-http://thedailywtf.com/articles/Confessions-The-Phone-Number 
+* **Objective**: Students will use variables to represent values.
+* **Assessment**: Create 5 variables that represent integers and 5 that represent strings. Write a paragraph in which you reference the 10 of the variables in their appropriate. 
 
-Exercise 1:
-Save each letter of the alphabet into a variable (ex. $alpha1 = “a”, $alpha2 = “b”, etc.)
-Use the variables created in step 1 to display the alphabet in order in the browser.
-Use the variables created in step 1 to display the alphabet in the browser in reverse order.
-Assign your name to a variable and use the variable to display your name in the browser.
+## Homework Assignment (10 hours/week)
 
-Exercise 2:
-Save all the multiples of 8 into variables (ex. $multiple1 = 8, $multiple2 = 16, etc.) up to 96.
-Display all the multiples of 8. 
-Display every other multiple of 8.
+Students will read about variables and values from the following specific articles and make detailed notes of each article.
+They will save these notes in a folder entitled “ACABackEndIntro” named “Variables_8_16_2015.txt”
 
-Exercise 3: 
-Read about concatenation: 
-Use it to join strings/integers - add a few examples here
+* http://www.tutorialspoint.com/php/php_variable_types.htm 
+* http://www.tizag.com/phpT/echo.php 
+* http://php.net/manual/en/language.variables.basics.php (Up to “User Contributed Notes”)
+* http://stackoverflow.com/questions/505642/escape-html-to-php-or-use-echo-which-is-better
+* http://thedailywtf.com/articles/Confessions-The-Phone-Number 
 
-Exercise 4:
+### Exercise 1
+
+1. Save each letter of the alphabet into a variable (ex. `$alpha1 = "a"`, `$alpha2 = "b"`, etc.)
+2. Use the variables created in step 1 to display the alphabet in order in the browser.
+3. Use the variables created in step 1 to display the alphabet in the browser in reverse order.
+4. Assign your name to a variable and use the variable to display your name in the browser.
+
+### Exercise 2
+
+1. Save all the multiples of 8 into variables (ex. `$multiple1 = 8`, `$multiple2 = 16`, etc.) up to 96.
+2. Display all the multiples of 8. 
+3. Display every other multiple of 8.
+
+### Exercise 3
+
+1. Read about concatenation: 
+2. Use it to join strings/integers - add a few examples here
+
+### Exercise 4
+
 Create a glossary to keep track of all the academic vocabulary we learn.
-Create a new file on your computer called “ACA”.
-Create a new document and save it as “Glossary”.
-Add these words to your glossary:
-Strings
-Integers
-Variables
-etc.
-Find definitions for each of the words. 
-Include coding examples.
 
-Exercise 5:
-For each question below, store your answer to the question in an appropriately named variable:: 
-What is your favorite color?
-Who is your favorite band or musical artist?
-Which year were you born?
-Do you listen to Led Zeppelin once a week?
-Do you follow Kim Kardashian on instagram?
-What is your phone number?
-What is your favorite drink? We might bring it to you if you do good enough in class? (probably not - don’t expect it)
-What is the number portion of your street address?
-What is your favorite number?
-What is the product of 1,234 and 845?
-If you have $500 in your bank account and a deposit of $750 is made, how much is now in your bank account? (Include currency in your answer)
+1. Create a new file on your computer called “ACA”.
+2. Create a new document and save it as “Glossary”.
+3. Add these words to your glossary:
+    * Strings
+    * Integers
+    * Variables
+    
+Find definitions for each of the words. Include coding examples.
 
-Instructional Plan:
- 
-Engage
+### Exercise 5
+
+For each question below, store your answer to the question in an appropriately named variable:
+
+1. What is your favorite color?
+2. Who is your favorite band or musical artist?
+3. Which year were you born?
+4. Do you listen to Led Zeppelin once a week?
+5. Do you follow Kim Kardashian on instagram?
+6. What is your phone number?
+7. What is your favorite drink? We might bring it to you if you do good enough in class? (probably not - don’t expect it)
+8. What is the number portion of your street address?
+9. What is your favorite number?
+10. What is the product of 1,234 and 845?
+11. If you have $500 in your bank account and a deposit of $750 is made, how much is now in your bank account? (Include currency in your answer)
+
+## Instructional Plan
+
+### Engage
  
 What are values?
 
@@ -67,7 +76,9 @@ funny video about values:
 https://www.youtube.com/watch?v=L_YbuK5B58Q
 
 ...transition into values on the websites
-Explore
+
+### Explore
+
 Show them a page’s source code - Which values do you see?
 https://twitter.com/ 
 https://twitter.com/settings/account
@@ -76,7 +87,9 @@ Get them to list: integer, string, floating points, booleans
 Where does all the information come from?
  
 …lead students to getting to “variables” 
-Explain
+
+### Explain
+
 What is a variable?
 Have students share their ideas until you get to…”A variable represents a value”.
  
@@ -91,7 +104,8 @@ Variable names follow the same rules as other labels in PHP. A valid variable na
 
 Students will define 3 variables that represent strings and 3 variables that represent integers based on the info they get from the website. 
  
-Elaborate
+### Elaborate
+
 Exercise: A local pizza joint, East Side Pies, has hired you to create an online ordering system for their store. Use your personal experiences with ordering food online to determine what variables would be required to fulfill the customer’s order. Assign example values to the variables to demonstrate how you intend the variables to be used.
 Use “echo” to print out values to webpage
 
@@ -142,20 +156,27 @@ credit card numbers
 Story of Dallas friend
 
 
-Evaluate
+### Evaluate
+
 Define a set of variable with values in the form of strings, integers, and floats. Then echo their value inside of the story below. 
 
+```php
 <?php
 
-echo “Jack and Jill went up the _____. They would have driven their ____, but it cost ____, so they could not afford it. The temperature was ____ degrees, so they were very ____. In fact, they were so ____ that they decided not to climb the ____ and instead spent ____ dollars on a ____ and used it to _____. Jack and Jill lived _____ _____ ______“;
+echo "Jack and Jill went up the _____. They would have driven their ____, but it cost ____,
+so they could not afford it. The temperature was ____ degrees, so they were very ____.
+In fact, they were so ____ that they decided not to climb the ____ and instead
+spent ____ dollars on a ____ and used it to _____. Jack and Jill lived _____ _____ ______";
 
 ?>
+```
 
 
 Create 10 variables that store all 4 types of values we covered today. Reference some of them in a story you write about   Have the paragraph show up on a website with the correct values substituted in for the variables. Don’t use your notes. 
  
 
-Important Vocabulary
-Strings
-Integers
-Variables
+Important Vocabulary:
+
+* Strings
+* Integers
+* Variables
