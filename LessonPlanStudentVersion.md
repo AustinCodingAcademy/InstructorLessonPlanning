@@ -102,8 +102,7 @@ Define a set of variable with values in the form of strings, integers, and float
 Jack and Jill went up the $noun1. They would have driven their $noun2, but it cost $dollaramount1,
 so they could not afford it. The temperature was $temp degrees, so they were very $adjective1.
 In fact, they were so $adjective1 that they decided not to climb the $noun3 and instead
-spent $dollaramount2 dollars on a $noun4 and used it to $verb1. Jack and Jill lived $happily $ever $after.
-
+spent $dollaramount2 dollars on a $noun4 and used it to $verb1. Jack and Jill lived $adv1 ever after.
 
 
 Important Vocabulary:
@@ -113,14 +112,10 @@ Important Vocabulary:
 * Variables
 
 
-Students will read about variables and values from the following specific articles and make detailed notes of each article.
-They will save these notes in a folder entitled “ACABackEndIntro” named “Variables_8_16_2015.txt”
+**Homework**
 
-* http://www.tutorialspoint.com/php/php_variable_types.htm 
-* http://www.tizag.com/phpT/echo.php 
-* http://php.net/manual/en/language.variables.basics.php (Up to “User Contributed Notes”)
-* http://stackoverflow.com/questions/505642/escape-html-to-php-or-use-echo-which-is-better
-* http://thedailywtf.com/articles/Confessions-The-Phone-Number 
+Students will read about operators:
+
 
 ### Exercise 1
 
