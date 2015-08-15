@@ -35,6 +35,8 @@ They will save these notes in a folder entitled “ACABackEndIntro” named “V
 
 **Exercise** Look up http://php.net/manual/en/language.variables.basics.php.  Define 3 variables that represent strings and 3 variables that represent integers based on the info you find on the website. (10 min)
 
+Use phpfiddle.org and click code space on top left
+
 **Exercise**: A local pizza joint, East Side Pies, has hired you to create an online ordering system for their store. Use your personal experiences with ordering food online to determine what variables would be required to fulfill the customer’s order. Assign example values to the variables to demonstrate how you intend the variables to be used.
 (20 min)
 
