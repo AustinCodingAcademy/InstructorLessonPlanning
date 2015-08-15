@@ -43,39 +43,31 @@ Use phpfiddle.org and click code space on top left
 
 ### Elaborate
 
-* Make "I love learning PHP!" show up on a webpage.
-    + First do the string as-is
-    + Let students search and talk with each other.
-    + Once a number of students do it, discuss with students how to do it 
-    + Next, start with `$phrase = "I love learning PHP!"` and ask them to accomplish the same task
-* Ask students why using a variable works - does PHP treat it differently?
+Select "run" code on codefiddle. What happens? Why?
 
-Key Points:
+Figure out a way to make it show up.
 
-* text in quotations
-* variable name is started with $
-* `echo` is used to make things show up on the screen.
-* you don’t need to put the quotations around the variable. You can just use the variable. In this case, it’s `echo $phrase`;
+**Exercise:** Make "I love learning PHP!" show up on a webpage using 2 different approaches. 
 
-* Hard-coding
-    + Using literal values throughout the code
+**Class Discussion**
 
-* Why variables are preferred to hard-coding
-    + Readability - no “magic” numbers
-    + Flexibility - program automatically adapts to changes in variable values
-    + Safety - reduces the chances of forgetting to update sections of code when changes are necessary
+*How are these 2 approaches different? How are the same?
 
-Further assignments:
+*What are the benefits of hardcoding vs. using variables?
+
+**Exercise:**
 
 * Create 3 variables that store integers. Use `echo` to make them show up on the webpage.
 * Create 3 variables that store floats. Use `echo` to make them show up on the webpage.
 * Create 3 variables that store strings. Use `echo` to make them show up on the webpage.
-* Create 3 variables that store booleans Use `var_dump` to make them show up on the webpage.
+* Create 3 variables that store booleans.
 
-**Note**: Can’t echo out boolean variables, have to use var_dump.
+**Note**: Can’t echo out boolean variables.
 
-* Discussion: Why do you think PHP requires strings to be surrounded in quotes?
-* Discussion: Why do you think integers and floating points are split into separate
+**Discussion**
+
+* Why do you think PHP requires strings to be surrounded in quotes?
+* Why do you think integers and floating points are split into separate
 types instead of just having a single “number” type?
 
 Do exercise #5
