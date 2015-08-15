@@ -65,96 +65,83 @@ For each question below, store your answer to the question in an appropriately n
 
 ### Engage
  
-What are values?
-
-What values do you hold?
-
-What values does America represent?
-
-funny video about values:
-
-https://www.youtube.com/watch?v=L_YbuK5B58Q
-
-...transition into values on the websites
+* What are values?
+* What values do you hold?
+* What values does America represent?
+* Funny video about values:
+    + https://www.youtube.com/watch?v=L_YbuK5B58Q
+* ...transition into values on the websites
 
 ### Explore
 
-Show them a page’s source code - Which values do you see?
-https://twitter.com/ 
-https://twitter.com/settings/account
-Get them to list: integer, string, floating points, booleans
- 
-Where does all the information come from?
- 
-…lead students to getting to “variables” 
+* Show them a page’s source code - Which values do you see?
+    + https://twitter.com/ 
+    + https://twitter.com/settings/account
+* Get them to list: integer, string, floating points, booleans
+* Where does all the information come from?
+* lead students to getting to “variables” 
 
 ### Explain
 
-What is a variable?
-Have students share their ideas until you get to…”A variable represents a value”.
+* What is a variable?
+* Have students share their ideas until you get to "A variable represents a value".
+* misconception: representing a value and being a value are different. Variables represent values and can be reassigned as necessary. They don’t _become_ the values.
+* misconception `=` vs. `==`
+* Students will look up this web page:  http://php.net/manual/en/language.variables.basics.php
  
-*misconception: representing a value and being a value are different. Variables represent values and can be reassigned as necessary. They don’t become the values.
- 
-*misconception = vs. ==
- 
-Students will look up this web page:  http://php.net/manual/en/language.variables.basics.php
- 
-Variables in PHP are represented by a dollar sign followed by the name of the variable. The variable name is case-sensitive.
-Variable names follow the same rules as other labels in PHP. A valid variable name starts with a letter or underscore, followed by any number of letters, numbers, or underscores.
+Variables in PHP are represented by a dollar sign followed by the name of the variable.
+The variable name is case-sensitive. Variable names follow the same rules as other labels in PHP.
+A valid variable name starts with a letter or underscore, followed by any number of letters, numbers, or underscores.
 
-Students will define 3 variables that represent strings and 3 variables that represent integers based on the info they get from the website. 
+* Students will define 3 variables that represent strings and 3 variables that represent integers based on the info they get from the website. 
  
 ### Elaborate
 
-Exercise: A local pizza joint, East Side Pies, has hired you to create an online ordering system for their store. Use your personal experiences with ordering food online to determine what variables would be required to fulfill the customer’s order. Assign example values to the variables to demonstrate how you intend the variables to be used.
-Use “echo” to print out values to webpage
+**Exercise**: A local pizza joint, East Side Pies, has hired you to create an online ordering system for their store. Use your personal experiences with ordering food online to determine what variables would be required to fulfill the customer’s order. Assign example values to the variables to demonstrate how you intend the variables to be used.
 
-Discussion questions: How do we make text and numbers appear on a webpage?
-
-Make “I love learning PHP!” show up on a webpage.
-First do the string as-is
-Let students search and talk with each other.
-Once a number of students do it, discuss with students how to do it 
-Next, start with $phrase = “I love learning PHP!” and ask them to accomplish the same task
-Ask students why using a variable works - does PHP treat it differently?
+* Use `echo` to print out values to webpage
+* Discussion questions: How do we make text and numbers appear on a webpage?
+* Make "I love learning PHP!" show up on a webpage.
+    + First do the string as-is
+    + Let students search and talk with each other.
+    + Once a number of students do it, discuss with students how to do it 
+    + Next, start with `$phrase = "I love learning PHP!"` and ask them to accomplish the same task
+* Ask students why using a variable works - does PHP treat it differently?
 
 Key Points:
-text in quotations
-variable name is started with $
-“echo” is used to make things show up on the screen.
-you don’t need to put the quotations around the variable. You can just use the variable. In this case, it’s echo  $phrase;
 
-Hard-coding
-Using literal values throughout the code
+* text in quotations
+* variable name is started with $
+* `echo` is used to make things show up on the screen.
+* you don’t need to put the quotations around the variable. You can just use the variable. In this case, it’s `echo $phrase`;
 
-Why variables are preferred to hard-coding
-Readability - no “magic” numbers
-Flexibility - program automatically adapts to changes in variable values
-Safety - reduces the chances of forgetting to update sections of code when changes are necessary
+* Hard-coding
+    + Using literal values throughout the code
+
+* Why variables are preferred to hard-coding
+    + Readability - no “magic” numbers
+    + Flexibility - program automatically adapts to changes in variable values
+    + Safety - reduces the chances of forgetting to update sections of code when changes are necessary
 
 Further assignments:
-Create 3 variables that store integers.
-Use “echo” to make them show up on the webpage.
-Create 3 variables that store floats.
-Use “echo” to make them show up on the webpage.
-Create 10 variables that store strings.
-Use “echo” to make them show up on the webpage.
-Create 3 variables that store booleans
-Use var_dump to make them show up on the webpage.
 
-Note: Can’t echo out boolean variables, have to use var_dump.
+* Create 3 variables that store integers. Use `echo` to make them show up on the webpage.
+* Create 3 variables that store floats. Use `echo` to make them show up on the webpage.
+* Create 10 variables that store strings. Use `echo` to make them show up on the webpage.
+* Create 3 variables that store booleans Use `var_dump` to make them show up on the webpage.
 
-Discussion: Why do you think PHP requires strings to be surrounded in quotes?
+**Note**: Can’t echo out boolean variables, have to use var_dump.
 
-Discussion: Why do you think integers and floating points are split into separate types instead of just having a single “number” type?
+* Discussion: Why do you think PHP requires strings to be surrounded in quotes?
+* Discussion: Why do you think integers and floating points are split into separate
+types instead of just having a single “number” type?
 
 Do exercise #5
 
-Numbers vs numeric strings
-phone numbers
-credit card numbers
-Story of Dallas friend
-
+* Numbers vs numeric strings
+    + phone numbers
+    + credit card numbers
+    + Story of Dallas friend
 
 ### Evaluate
 
@@ -170,10 +157,6 @@ spent ____ dollars on a ____ and used it to _____. Jack and Jill lived _____ ___
 
 ?>
 ```
-
-
-Create 10 variables that store all 4 types of values we covered today. Reference some of them in a story you write about   Have the paragraph show up on a website with the correct values substituted in for the variables. Don’t use your notes. 
- 
 
 Important Vocabulary:
 
