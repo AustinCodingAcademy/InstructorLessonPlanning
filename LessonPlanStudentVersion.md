@@ -19,7 +19,7 @@ They will save these notes in a folder entitled “ACABackEndIntro” named “V
 
 ### Explore
 
-* Show them a page’s source code - Which values do you see? / Can we classify them in any way?
+* Show a webpage- Which values do you see? / Can we classify them in any way?
     + https://twitter.com/ 
     + https://twitter.com/settings/account
 
