@@ -25,9 +25,11 @@ They will save these notes in a folder entitled “ACABackEndIntro” named “V
 
 
 
-* What if I wanted to change my name on my twitter, howm any different times would I have to rewrite it?
+* What if I wanted to change my name on my twitter, how many different times would I have to rewrite it?
 
 ### Explain
+
+* What if I wanted to change my name on my twitter, how many different times would I have to rewrite it?
 
 * What is a variable?
 
