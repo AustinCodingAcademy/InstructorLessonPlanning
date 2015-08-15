@@ -15,12 +15,7 @@ They will save these notes in a folder entitled “ACABackEndIntro” named “V
 
 ### Engage
  
-* What are values?
-* What values do you hold?
-* What values does America represent?
-* Funny video about values:
-    + https://www.youtube.com/watch?v=L_YbuK5B58Q
-* ...transition into values on the websites
+*Slideshow about values
 
 ### Explore
 
