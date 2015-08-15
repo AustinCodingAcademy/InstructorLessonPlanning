@@ -19,29 +19,28 @@ They will save these notes in a folder entitled “ACABackEndIntro” named “V
 
 ### Explore
 
-* Show them a page’s source code - Which values do you see?
+* Show them a page’s source code - Which values do you see? / Can we classify them in any way?
     + https://twitter.com/ 
     + https://twitter.com/settings/account
-* Get them to list: integer, string, floating points, booleans
+
+
+
 * Where does all the information come from?
-* lead students to getting to “variables” 
+
 
 ### Explain
 
 * What is a variable?
-* Have students share their ideas until you get to "A variable represents a value".
-* misconception: representing a value and being a value are different. Variables represent values and can be reassigned as necessary. They don’t _become_ the values.
-* misconception `=` vs. `==`
-* Students will look up this web page:  http://php.net/manual/en/language.variables.basics.php
 
-**Exercise** Define 3 variables that represent strings and 3 variables that represent integers based on the info you find on the website. 
+**Exercise** Look up http://php.net/manual/en/language.variables.basics.php.  Define 3 variables that represent strings and 3 variables that represent integers based on the info you find on the website. (10 min)
+
+**Exercise**: A local pizza joint, East Side Pies, has hired you to create an online ordering system for their store. Use your personal experiences with ordering food online to determine what variables would be required to fulfill the customer’s order. Assign example values to the variables to demonstrate how you intend the variables to be used.
+(10 min)
+
+Break
  
 ### Elaborate
 
-**Exercise**: A local pizza joint, East Side Pies, has hired you to create an online ordering system for their store. Use your personal experiences with ordering food online to determine what variables would be required to fulfill the customer’s order. Assign example values to the variables to demonstrate how you intend the variables to be used.
-
-* Use `echo` to print out values to webpage
-* Discussion questions: How do we make text and numbers appear on a webpage?
 * Make "I love learning PHP!" show up on a webpage.
     + First do the string as-is
     + Let students search and talk with each other.
