@@ -88,10 +88,6 @@ For each question below, store your answer to the question in an appropriately n
 * misconception: representing a value and being a value are different. Variables represent values and can be reassigned as necessary. They don’t _become_ the values.
 * misconception `=` vs. `==`
 * Students will look up this web page:  http://php.net/manual/en/language.variables.basics.php
- 
-Variables in PHP are represented by a dollar sign followed by the name of the variable.
-The variable name is case-sensitive. Variable names follow the same rules as other labels in PHP.
-A valid variable name starts with a letter or underscore, followed by any number of letters, numbers, or underscores.
 
 * Students will define 3 variables that represent strings and 3 variables that represent integers based on the info they get from the website. 
  
