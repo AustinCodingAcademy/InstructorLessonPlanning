@@ -99,10 +99,10 @@ Echo out your answers by running your code on code fittle. Copy the restuls and 
 Define a set of variable with values in the form of strings, integers, and floats. Copy the story in your code and then echo the variable inside of the story below. 
 
 
-Jack and Jill went up the $noun1. They would have driven their $noun2, but it cost $dollaramount1,
+```Jack and Jill went up the $noun1. They would have driven their $noun2, but it cost $dollaramount1,
 so they could not afford it. The temperature was $temp degrees, so they were very $adjective1.
 In fact, they were so $adjective1 that they decided not to climb the $noun3 and instead
-spent $dollaramount2 dollars on a $noun4 and used it to $verb1. Jack and Jill lived $adv1 ever after.
+spent $dollaramount2 dollars on a $noun4 and used it to $verb1. Jack and Jill lived $adv1 ever after.```
 
 
 Important Vocabulary:
