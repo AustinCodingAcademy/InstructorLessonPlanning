@@ -67,7 +67,7 @@ Further assignments:
 
 * Create 3 variables that store integers. Use `echo` to make them show up on the webpage.
 * Create 3 variables that store floats. Use `echo` to make them show up on the webpage.
-* Create 10 variables that store strings. Use `echo` to make them show up on the webpage.
+* Create 3 variables that store strings. Use `echo` to make them show up on the webpage.
 * Create 3 variables that store booleans Use `var_dump` to make them show up on the webpage.
 
 **Note**: Can’t echo out boolean variables, have to use var_dump.
