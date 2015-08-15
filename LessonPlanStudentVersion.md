@@ -1,11 +1,7 @@
 # 5E Model Lesson Plan – Lofton and Joe
  
-* **Objective**: Students will use variables to represent values.
-* **Assessment**: Create 5 variables that represent integers and 5 that represent strings. Write a paragraph in which you reference the 10 of the variables in their appropriate. 
-
-## Homework Assignment (10 hours/week)
-
-Students will read about variables and values from the following specific articles and make detailed notes of each article.
+* **Objective:** Students will use variables to represent values.
+* **Prereading:** Students will read about variables and values from the following specific articles and make detailed notes of each article.
 They will save these notes in a folder entitled “ACABackEndIntro” named “Variables_8_16_2015.txt”
 
 * http://www.tutorialspoint.com/php/php_variable_types.htm 
@@ -14,52 +10,6 @@ They will save these notes in a folder entitled “ACABackEndIntro” named “V
 * http://stackoverflow.com/questions/505642/escape-html-to-php-or-use-echo-which-is-better
 * http://thedailywtf.com/articles/Confessions-The-Phone-Number 
 
-### Exercise 1
-
-1. Save each letter of the alphabet into a variable (ex. `$alpha1 = "a"`, `$alpha2 = "b"`, etc.)
-2. Use the variables created in step 1 to display the alphabet in order in the browser.
-3. Use the variables created in step 1 to display the alphabet in the browser in reverse order.
-4. Assign your name to a variable and use the variable to display your name in the browser.
-
-### Exercise 2
-
-1. Save all the multiples of 8 into variables (ex. `$multiple1 = 8`, `$multiple2 = 16`, etc.) up to 96.
-2. Display all the multiples of 8. 
-3. Display every other multiple of 8.
-
-### Exercise 3
-
-1. Read about concatenation: 
-2. Use it to join strings/integers - add a few examples here
-
-### Exercise 4
-
-Create a glossary to keep track of all the academic vocabulary we learn.
-
-1. Create a new file on your computer called “ACA”.
-2. Create a new document and save it as “Glossary”.
-3. Add these words to your glossary:
-    * Strings
-    * Integers
-    * Variables
-    
-Find definitions for each of the words. Include coding examples.
-
-### Exercise 5
-
-For each question below, store your answer to the question in an appropriately named variable:
-
-1. What is your favorite color?
-2. Who is your favorite band or musical artist?
-3. Which year were you born?
-4. Do you listen to Led Zeppelin once a week?
-5. Do you follow Kim Kardashian on instagram?
-6. What is your phone number?
-7. What is your favorite drink? We might bring it to you if you do good enough in class? (probably not - don’t expect it)
-8. What is the number portion of your street address?
-9. What is your favorite number?
-10. What is the product of 1,234 and 845?
-11. If you have $500 in your bank account and a deposit of $750 is made, how much is now in your bank account? (Include currency in your answer)
 
 ## Instructional Plan
 
@@ -159,3 +109,60 @@ Important Vocabulary:
 * Strings
 * Integers
 * Variables
+
+
+Students will read about variables and values from the following specific articles and make detailed notes of each article.
+They will save these notes in a folder entitled “ACABackEndIntro” named “Variables_8_16_2015.txt”
+
+* http://www.tutorialspoint.com/php/php_variable_types.htm 
+* http://www.tizag.com/phpT/echo.php 
+* http://php.net/manual/en/language.variables.basics.php (Up to “User Contributed Notes”)
+* http://stackoverflow.com/questions/505642/escape-html-to-php-or-use-echo-which-is-better
+* http://thedailywtf.com/articles/Confessions-The-Phone-Number 
+
+### Exercise 1
+
+1. Save each letter of the alphabet into a variable (ex. `$alpha1 = "a"`, `$alpha2 = "b"`, etc.)
+2. Use the variables created in step 1 to display the alphabet in order in the browser.
+3. Use the variables created in step 1 to display the alphabet in the browser in reverse order.
+4. Assign your name to a variable and use the variable to display your name in the browser.
+
+### Exercise 2
+
+1. Save all the multiples of 8 into variables (ex. `$multiple1 = 8`, `$multiple2 = 16`, etc.) up to 96.
+2. Display all the multiples of 8. 
+3. Display every other multiple of 8.
+
+### Exercise 3
+
+1. Read about concatenation: 
+2. Use it to join strings/integers - add a few examples here
+
+### Exercise 4
+
+Create a glossary to keep track of all the academic vocabulary we learn.
+
+1. Create a new file on your computer called “ACA”.
+2. Create a new document and save it as “Glossary”.
+3. Add these words to your glossary:
+    * Strings
+    * Integers
+    * Variables
+    
+Find definitions for each of the words. Include coding examples.
+
+### Exercise 5
+
+For each question below, store your answer to the question in an appropriately named variable:
+
+1. What is your favorite color?
+2. Who is your favorite band or musical artist?
+3. Which year were you born?
+4. Do you listen to Led Zeppelin once a week?
+5. Do you follow Kim Kardashian on instagram?
+6. What is your phone number?
+7. What is your favorite drink? We might bring it to you if you do good enough in class? (probably not - don’t expect it)
+8. What is the number portion of your street address?
+9. What is your favorite number?
+10. What is the product of 1,234 and 845?
+11. If you have $500 in your bank account and a deposit of $750 is made, how much is now in your bank account? (Include currency in your answer)
