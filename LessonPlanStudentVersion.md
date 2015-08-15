@@ -70,27 +70,41 @@ Figure out a way to make it show up.
 * Why do you think integers and floating points are split into separate
 types instead of just having a single “number” type?
 
-Do exercise #5
+**Exercise**
+
+For each question below, store your answer to the question in an appropriately named variable:
+
+1. What is your favorite color?
+2. Who is your favorite band or musical artist?
+3. Which year were you born?
+4. Do you listen to Led Zeppelin once a week?
+5. Do you follow Kim Kardashian on instagram?
+6. What is your phone number?
+7. What is your favorite drink? We might bring it to you if you do good enough in class? (probably not - don’t expect it)
+8. What is the number portion of your street address?
+9. What is your favorite number?
+10. What is the product of 1,234 and 845?
+11. If you have $500 in your bank account and a deposit of $750 is made, how much is now in your bank account? (Include currency in your answer)
+
+Echo out your answers by running your code on code fittle. Copy the restuls and email it to me at clofton@austincodingacademy.com.
+
 
 * Numbers vs numeric strings
     + phone numbers
     + credit card numbers
-    + Story of Dallas friend
+    + Story of Dallas friend by Joe
 
 ### Evaluate
 
-Define a set of variable with values in the form of strings, integers, and floats. Then echo their value inside of the story below. 
+Define a set of variable with values in the form of strings, integers, and floats. Copy the story in your code and then echo the variable inside of the story below. 
 
-```php
-<?php
 
-echo "Jack and Jill went up the _____. They would have driven their ____, but it cost ____,
-so they could not afford it. The temperature was ____ degrees, so they were very ____.
-In fact, they were so ____ that they decided not to climb the ____ and instead
-spent ____ dollars on a ____ and used it to _____. Jack and Jill lived _____ _____ ______";
+Jack and Jill went up the $noun1. They would have driven their $noun2, but it cost $dollaramount1,
+so they could not afford it. The temperature was $temp degrees, so they were very $adjective1.
+In fact, they were so $adjective1 that they decided not to climb the $noun3 and instead
+spent $dollaramount2 dollars on a $noun4 and used it to $verb1. Jack and Jill lived $happily $ever $after.
 
-?>
-```
+
 
 Important Vocabulary:
 
@@ -139,19 +153,6 @@ Create a glossary to keep track of all the academic vocabulary we learn.
     
 Find definitions for each of the words. Include coding examples.
 
-### Exercise 5
 
-For each question below, store your answer to the question in an appropriately named variable:
 
-1. What is your favorite color?
-2. Who is your favorite band or musical artist?
-3. Which year were you born?
-4. Do you listen to Led Zeppelin once a week?
-5. Do you follow Kim Kardashian on instagram?
-6. What is your phone number?
-7. What is your favorite drink? We might bring it to you if you do good enough in class? (probably not - don’t expect it)
-8. What is the number portion of your street address?
-9. What is your favorite number?
-10. What is the product of 1,234 and 845?
-11. If you have $500 in your bank account and a deposit of $750 is made, how much is now in your bank account? (Include currency in your answer)
    
