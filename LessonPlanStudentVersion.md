@@ -114,13 +114,6 @@ Important Vocabulary:
 
 **Homework**
 
-Students will read about operators:
-
-* http://www.tizag.com/phpT/operators.php
-* http://www.hackingwithphp.com/3/12/3/complete-operator-list (Skip Bitwise Operators)
-* http://www.w3schools.com/php/php_operators.asp (Skip Array Operators)
-
-
 ### Exercise 1
 
 1. Save each letter of the alphabet into a variable (ex. `$alpha1 = "a"`, `$alpha2 = "b"`, etc.)
@@ -153,5 +146,8 @@ Create a glossary to keep track of all the academic vocabulary we learn.
 Find definitions for each of the words. Include coding examples.
 
 
+Students will read about operators:
 
-   
+* http://www.tizag.com/phpT/operators.php
+* http://www.hackingwithphp.com/3/12/3/complete-operator-list (Skip Bitwise Operators)
+* http://www.w3schools.com/php/php_operators.asp (Skip Array Operators)
