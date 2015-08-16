@@ -109,14 +109,14 @@ spent $dollaramount2 dollars on a $noun4 and used it to $verb1. Jack and Jill li
 ```
 
 
-Important Vocabulary:
+### Important Vocabulary:
 
 * Strings
 * Integers
 * Variables
 
 
-**Homework**
+##Homework
 
 ### Exercise 1
 
