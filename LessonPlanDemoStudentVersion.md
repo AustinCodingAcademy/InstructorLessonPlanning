@@ -33,7 +33,9 @@ They will save these notes in a folder entitled “ACABackEndIntro” named “V
 
 * What is a variable?
 
-**Exercise** Look up http://php.net/manual/en/language.variables.basics.php.  Define 3 variables that represent strings and 3 variables that represent integers based on the info you find on the website. (10 min)
+go to http://phpfiddle.org/
+
+**Exercise:** Look up http://php.net/manual/en/language.variables.basics.php.  Define 3 variables that represent strings and 3 variables that represent integers based on the info you find on the website. (10 min)
 
 Use phpfiddle.org and click code space on top left
 
