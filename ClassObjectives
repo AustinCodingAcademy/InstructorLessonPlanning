@@ -1,7 +1,7 @@
-ACA Objectives
+**ACA Objectives**
 
-Front End Intro 
-    HTML page structure elements
+**Front End Intro** 
+HTML page structure elements
     <!DOCTYPE> Declaration
     <html></html> tags
     <heading></heading> tags
@@ -31,12 +31,12 @@ Front End Intro
     <del></del> deleted (line through) text
     <ins></ins> inserted (underlines) text
     <blockquote></blockquote> long quotes
-    Ways to implement CSS and the pros and cons of each
-Within elements of HTML page
+Ways to implement CSS and the pros and cons of each
+    Within elements of HTML page
     In the header of the HTML file
-<style> elements
-In an external CSS file
-<link rel="stylesheet" href="css/my-style.css">
+        <style> elements
+    In an external CSS file
+        <link rel="stylesheet" href="css/my-style.css">
 CSS properties
 Box Model Properties
 Offset
@@ -74,7 +74,7 @@ Navbar components
 
 
 
-Front End Intermediate  
+**Front End Intermediate**  
 Primitives
 Boolean
 Null
@@ -121,7 +121,7 @@ Angular
 
 
 
-Back End Intro 
+**Back End Intro** 
 Variables
 Strings
 Arrays
@@ -202,7 +202,7 @@ Anchor links
 Forms
     
 
-Back End Intermediate 
+**Back End Intermediate** 
 HTML
 Syntax*
     PHP tags
