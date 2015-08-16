@@ -117,7 +117,6 @@ spent $dollaramount2 dollars on a $noun4 and used it to $verb1. Jack and Jill li
 
 
 ##Homework
-
 ### Exercise 1
 
 1. Save each letter of the alphabet into a variable (ex. `$alpha1 = "a"`, `$alpha2 = "b"`, etc.)
