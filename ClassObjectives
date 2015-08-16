@@ -1,6 +1,6 @@
 # ACA Objectives
 
-**Front End Intro** 
+Front End Intro
 HTML page structure elements
     <!DOCTYPE> Declaration
     <html></html> tags
@@ -74,7 +74,7 @@ Navbar components
 
 
 
-**Front End Intermediate**  
+Front End Intermediate
 Primitives
 Boolean
 Null
@@ -121,7 +121,7 @@ Angular
 
 
 
-**Back End Intro** 
+Back End Intro
 Variables
 Strings
 Arrays
