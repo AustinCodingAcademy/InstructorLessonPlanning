@@ -1,4 +1,4 @@
-# ACA Objectives
+ACA Objectives
 
 Front End Intro
 HTML page structure elements
@@ -38,38 +38,38 @@ Ways to implement CSS and the pros and cons of each
     In an external CSS file
         <link rel="stylesheet" href="css/my-style.css">
 CSS properties
-Box Model Properties
-Offset
-Padding
-Margin
-Dimensions (width and height)
-Border
-Breaking the normal document flow
-Floats (Left and right)        
-Reinstating normal document flow 
-Clearing Floats (Left, right, and both)
-Use of Clear Fix
+    Box Model Properties
+    Offset
+    Padding
+    Margin
+    Dimensions (width and height)
+    Border
+    Breaking the normal document flow
+    Floats (Left and right)        
+    Reinstating normal document flow 
+    Clearing Floats (Left, right, and both)
+    Use of Clear Fix
 Typography:
-Font-family
-Font-size
-Font-weight
-Line height
+    Font-family
+    Font-size
+    Font-weight
+    Line height
 Units of Measurement (px, %)
 CSS selectors:
-.class
- #id
+    .class
+    #id
 Native HTML Tags
 Selective Precedence within CSS selectors
 Media Queries
 Bootstrap
-Grid classes (xs, sm, md, and lg)
-Grid system concepts
-.container
-.container-fluid
-.row
-.col
-Responsive utilities in Bootstrap
-Navbar components
+    Grid classes (xs, sm, md, and lg)
+    Grid system concepts
+        .container
+        .container-fluid
+        .row
+        .col
+    Responsive utilities in Bootstrap
+    Navbar components
         
 
 
