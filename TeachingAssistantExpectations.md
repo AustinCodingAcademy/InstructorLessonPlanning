@@ -1,6 +1,6 @@
-Teaching Assistant Expectations
+##Teaching Assistant Expectations
 
-All ACA Teaching Assistants should:
+###All ACA Teaching Assistants should:
 •	Arrive and leave on time.
 •	Be actively engaged with students at office hours and during class.
 o	This looks like:
@@ -8,7 +8,7 @@ o	This looks like:
 •	Looking at computer screens
 •	Asking students if they need assistance
 •	Guiding students to understanding
-o	This don’t not look like:
+o	This doesn’t not look like:
 •	Being on your computer
 •	Sitting down for long periods of time
 •	Giving students answers
