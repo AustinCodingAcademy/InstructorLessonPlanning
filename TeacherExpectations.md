@@ -32,6 +32,6 @@
 * “Turning in lesson plans” means uploading them to github @ https://github.com/orgs/AustinCodingAcademy/
 
 
-** We are in the curriculum develpoment phase. More work now means less work later. **
+**We are in the curriculum develpoment phase. More work now means less work later.**
 
 
