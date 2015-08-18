@@ -3,23 +3,23 @@ Last revised: August 14, 2015
 
 Daily objectives: Day 1 - Day 20
 
-Students will understand the basic components of the web’s infrastructure
-Students will use variables to represent values
-Students will use operators to perform operations on simple values
-Students will use if statements to implement basic decision making
-Students will use if statements to implement complex decision making
-Students will use loops to repeat blocks of code
-Students will use arrays to represent groups of related data
-Students will use loops to iterate over arrays and strings
-Students will use associative arrays to represent groups of related data
-Students will create functions to group related sections of code
-Students will write to and read from files on the filesystem
-Students will create, traverse, and serialize nested structures
-Students will use HTML forms to gather user input
-Students will use PHP to process user input from HTML forms
-Students will use PHP to perform HTTP requests
-Students will use HTTP requests to interact with JSON APIs
-Students will implement a user authentication system
-Students will implement a user authorization system
-Students will use Firebase as a persistent data store
-Students will initiate AJAX requests and callbacks using jQuery
+Day 1: Students will understand the basic components of the web’s infrastructure
+Day 2: Students will use variables to represent values
+Day 3: Students will use operators to perform operations on simple values
+Day 4: Students will use if statements to implement basic decision making
+Day 5: Students will use if statements to implement complex decision making
+Day 6: Students will use loops to repeat blocks of code
+Day 7: Students will use arrays to represent groups of related data
+Day 8: Students will use loops to iterate over arrays and strings
+Day 9: Students will use associative arrays to represent groups of related data
+Day 10: Students will create functions to group related sections of code
+Day 11: Students will write to and read from files on the filesystem
+Day 12: Students will create, traverse, and serialize nested structures
+Day 13: Students will use HTML forms to gather user input
+Day 14: Students will use PHP to process user input from HTML forms
+Day 15: Students will use PHP to perform HTTP requests
+Day 16: Students will use HTTP requests to interact with JSON APIs
+Day 17: Students will implement a user authentication system
+Day 18: Students will implement a user authorization system
+Day 19: Students will use Firebase as a persistent data store
+Day 20: Students will initiate AJAX requests and callbacks using jQuery
