@@ -10,21 +10,21 @@
 
 ###Recommendations
 
-*Name files something that will help students search and locate their notes/exercises
+Name files something that will help students search and locate their notes/exercises
 
-*Use a textbook or some sort of standard reference material.
+Use a textbook or some sort of standard reference material.
 
-*Use a lesson plan model to organize your lesson
+Use a lesson plan model to organize your lesson
 
-***I do, we do, you do**
-*http://www.sjboces.org/doc/Gifted/GradualReleaseResponsibilityJan08.pdf
+**I do, we do, you do**
+http://www.sjboces.org/doc/Gifted/GradualReleaseResponsibilityJan08.pdf
 
-***5E Model:**
-*http://www.nasa.gov/audience/foreducators/nasaeclips/5eteachingmodels/
+**5E Model:**
+http://www.nasa.gov/audience/foreducators/nasaeclips/5eteachingmodels/
 
-*“Flipped” classroom – read notes/watch videos before class
+“Flipped” classroom – read notes/watch videos before class
 
-*Timebox – time students to ensure effective use of class time
+Timebox – time students to ensure effective use of class time
 
 
 Student Feedback from Exit Consultations:
