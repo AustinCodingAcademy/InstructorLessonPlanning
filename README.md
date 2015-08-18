@@ -9,6 +9,9 @@ Here's a lesson plan you can use as a model.
 [**LessonPlanDemoStudentVersion**](https://github.com/AustinCodingAcademy/InstructorLessonPlanning/blob/master/LessonPlanDemoStudentVersion.md)
 Here's the same version of that plan, but this is the version students would see as they followed along in class.
 
+[**LessonPlanInfo**](https://github.com/AustinCodingAcademy/InstructorLessonPlanning/blob/master/LessonPlanInfo.md)
+Here is a guide to creating lesson plans.
+
 [**TeacherExpectations**](https://github.com/AustinCodingAcademy/InstructorLessonPlanning/blob/master/TeacherExpectations)
 What is expected from an instructor at Austin Coding Academy.
 
