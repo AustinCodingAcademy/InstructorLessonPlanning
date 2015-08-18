@@ -10,11 +10,11 @@
     * Asking students if they need assistance
     * Guiding students to understanding
   * This doesn’t not look like:
-   * Being on your computer
-    *	Sitting down for long periods of time
-    *	Giving students answers
-    *	Coding for them
-    *	Just trying to catch students up
+    * Being on your computer
+     *	Sitting down for long periods of time
+     *	Giving students answers
+     *	Coding for them
+     *	Just trying to catch students up
 * Safety Net
   * Keeping an eye on students 
   * Keeping track of attendance or homework
