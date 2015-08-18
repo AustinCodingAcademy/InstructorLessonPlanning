@@ -10,7 +10,7 @@
     * Asking students if they need assistance
     * Guiding students to understanding
   * This doesn’t not look like:
-* Being on your computer
+   * Being on your computer
     *	Sitting down for long periods of time
     *	Giving students answers
     *	Coding for them
