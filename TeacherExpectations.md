@@ -21,7 +21,7 @@
 * A unit plan is required by September 7th.
   * The unit plan must address all course objectives.
   * Students will leave your class proficient in all objectives.
-  * See the (SampleUnitPlan)["https://github.com/AustinCodingAcademy/InstructorLessonPlanning/blob/master/UnitPlanSample"]
+  * See the (SampleUnitPlan)[https://github.com/AustinCodingAcademy/InstructorLessonPlanning/blob/master/UnitPlanSample]
 
 * A midterm and final exam will ensure all students met objectives. 
   
@@ -29,11 +29,9 @@
 
 * All future lesson plans must be turned in at least one week in advance.
 
-* “Turning in lesson plans” means uploading them to github
-
-https://github.com/orgs/AustinCodingAcademy/
+* “Turning in lesson plans” means uploading them to github @ https://github.com/orgs/AustinCodingAcademy/
 
 
-We are in the curriculum develpoment phase. More work now means less work later.
+** We are in the curriculum develpoment phase. More work now means less work later. **
 
 
