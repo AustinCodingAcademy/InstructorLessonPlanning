@@ -23,13 +23,9 @@
   * The unit plan must address all course objectives.
   * Students will leave your class proficient in all objectives.
   * See the (SampleUnitPlan)[https://github.com/AustinCodingAcademy/InstructorLessonPlanning/blob/master/UnitPlanSample]
-
 * A midterm and final exam will ensure all students met objectives. 
-  
 * The first 2 weeks of lesson plans are due by September 7th.
-
 * All future lesson plans must be turned in at least one week in advance.
-
 * “Turning in lesson plans” means uploading them to github @ https://github.com/orgs/AustinCodingAcademy/
 
 
