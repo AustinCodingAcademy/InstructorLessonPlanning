@@ -9,6 +9,7 @@
   * What do you want students to be able to do by the end of the class?
 * Instructional plan
   * How will you teach students the objective?
+  * Include real world application of concept to demonstrate relevance.
 * Assessment of objective
   * How do you know students can do the objective?
 * 10 hours of homework per week (1 hour on Mon/Tues, 9 hours on Wed/Thur)
