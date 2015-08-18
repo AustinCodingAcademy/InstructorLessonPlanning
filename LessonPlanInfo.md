@@ -18,7 +18,7 @@
 * “Flipped” classroom – read notes/watch videos before class
 * Timebox – time students to ensure effective use of class time
 
-###Student Feedback from Exit Consultations:
+###Student Feedback from Exit Consultations
 
 * More quizzes
 * “I loved when Matt broke class up into two groups, remedial and advanced. Very helpful”
