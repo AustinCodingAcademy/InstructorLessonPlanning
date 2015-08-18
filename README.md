@@ -12,7 +12,7 @@ Here's the same version of that plan, but this is the version students would see
 [**LessonPlanInfo**](https://github.com/AustinCodingAcademy/InstructorLessonPlanning/blob/master/LessonPlanInfo.md)
 Here is a guide to creating lesson plans.
 
-[**TeacherExpectations**](https://github.com/AustinCodingAcademy/InstructorLessonPlanning/blob/master/TeacherExpectations)
+[**TeacherExpectations**](https://github.com/AustinCodingAcademy/InstructorLessonPlanning/blob/master/TeacherExpectations.md)
 What is expected from an instructor at Austin Coding Academy.
 
 [**TeachingAssistantExpectations**](https://github.com/AustinCodingAcademy/InstructorLessonPlanning/blob/master/TeachingAssistantExpectations.md)
