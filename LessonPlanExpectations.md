@@ -1,4 +1,4 @@
-Lesson Plan Components
+#Lesson Plan Components
 
 Objective: What will students be able to do by the time they leave class each day?
 Instructional Plan: How are you going to accomplish your objective?
