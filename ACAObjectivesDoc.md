@@ -2,79 +2,79 @@
 
 **Front End Intro**
 + HTML page structure elements
-    - <!DOCTYPE> Declaration
-    - <html></html> tags
-    - <heading></heading> tags
-    - <title></title> tags
-    - <body></body> tags
-    - <h1> to <h6> heading tags
-    - <p></p>  paragraph tags
-    - <a></a> link tags
-    - href attribute
-        - <img> image tags
-    - src attribute
-    - size attributes (width and height)
-    - alt attribute
-        - <hr> tag
-        - <br> tag
-        - lists 
-    <ol> ordered list element
-    <ul> unordered list element
-    <menu> menu element
-    formatting elements
-    <b></b> bold text
-    <strong></strong> important text
-    <i></i> italic text
-    <em></em> emphasized text
-    <mark></mark> marked (highlighted) text
-    <small></small> small text
-    <del></del> deleted (line through) text
-    <ins></ins> inserted (underlines) text
-    <blockquote></blockquote> long quotes
-Ways to implement CSS and the pros and cons of each
-    Within elements of HTML page
-    In the header of the HTML file
-        <style> elements
-    In an external CSS file
-        <link rel="stylesheet" href="css/my-style.css">
-CSS properties
-    Box Model Properties
-    Offset
-    Padding
-    Margin
-    Dimensions (width and height)
-    Border
-    Breaking the normal document flow
-    Floats (Left and right)        
-    Reinstating normal document flow 
-    Clearing Floats (Left, right, and both)
-    Use of Clear Fix
-Typography:
-    Font-family
-    Font-size
-    Font-weight
-    Line height
-Units of Measurement (px, %)
-CSS selectors:
-    .class
-    #id
-Native HTML Tags
-Selective Precedence within CSS selectors
-Media Queries
-Bootstrap
-    Grid classes (xs, sm, md, and lg)
-    Grid system concepts
-        .container
-        .container-fluid
-        .row
-        .col
-    Responsive utilities in Bootstrap
-    Navbar components
+    - `<!DOCTYPE>` Declaration
+    - `<html></html>` tags
+    - `<heading></heading>` tags
+    - `<title></title>` tags
+    - `<body></body>` tags
+    - `<h1>` to `<h6>` heading tags
+    - `<p></p>`  paragraph tags
+    - `<a></a>` link tags
+        - href attribute
+    - `<img>` image tags
+        - src attribute
+        - size attributes (width and height)
+        - alt attribute
+    - `<hr>` tag
+    - `<br>` tag
+    - lists 
+        - `<ol>` ordered list element
+        - `<ul>` unordered list element
+        - `<menu>` menu element
+    - formatting elements
+        - `<b></b>` bold text
+        - `<strong></strong>` important text
+        - `<i></i>` italic text
+        - `<em></em>` emphasized text
+        - `<mark></mark>` marked (highlighted) text
+        - `<small></small>` small text
+        - `<del></del>` deleted (line through) text
+        - `<ins></ins>` inserted (underlines) text
+        - `<blockquote></blockquote>` long quotes
++ Ways to implement CSS and the pros and cons of each
+    - Within elements of HTML page
+    - In the header of the HTML file
+        - `<style>` elements
+    - In an external CSS file
+        - `<link rel="stylesheet" href="css/my-style.css">`
++ CSS properties
+    - Box Model Properties
+        - Offset
+        - Padding
+        - Margin
+        - Dimensions (width and height)
+        - Border
+    - Breaking the normal document flow
+        - Floats (Left and right)        
+    - Reinstating normal document flow 
+        - Clearing Floats (Left, right, and both)
+        - Use of Clear Fix
++ Typography:
+    - Font-family
+    - Font-size
+    - Font-weight
+    - Line height
++ Units of Measurement (px, %)
++ CSS selectors:
+    - `.class`
+    - `#id`
+    - Native HTML Tags
++ Selective Precedence within CSS selectors
++ Media Queries
++ Bootstrap
+    - Grid classes (xs, sm, md, and lg)
+    - Grid system concepts
+        - `.container`
+        - `.container-fluid`
+        - `.row`
+        - `.col`
+    - Responsive utilities in Bootstrap
+    - Navbar components
         
 
 
 
-Front End Intermediate
+**Front End Intermediate**
 Primitives
 Boolean
 Null
