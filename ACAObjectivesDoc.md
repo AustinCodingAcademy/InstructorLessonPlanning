@@ -11,13 +11,13 @@
     - <p></p>  paragraph tags
     - <a></a> link tags
     - href attribute
-        - - <img> image tags
+        - <img> image tags
     - src attribute
     - size attributes (width and height)
     - alt attribute
-        - - <hr> tag
-        - - <br> tag
-        - - lists 
+        - <hr> tag
+        - <br> tag
+        - lists 
     <ol> ordered list element
     <ul> unordered list element
     <menu> menu element
