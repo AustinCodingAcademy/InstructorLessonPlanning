@@ -1,23 +1,23 @@
-ACA Objectives Document
+#ACA Objectives Document
 
-Front End Intro
-HTML page structure elements
-    <!DOCTYPE> Declaration
-    <html></html> tags
-    <heading></heading> tags
-    <title></title> tags
-    <body></body> tags
-    <h1> to <h6> heading tags
-    <p></p>  paragraph tags
-    <a></a> link tags
-    href attribute
-        <img> image tags
-    src attribute
-    size attributes (width and height)
-    alt attribute
-        <hr> tag
-        <br> tag
-        lists 
+**Front End Intro**
++ HTML page structure elements
+    - <!DOCTYPE> Declaration
+    - <html></html> tags
+    - <heading></heading> tags
+    - <title></title> tags
+    - <body></body> tags
+    - <h1> to <h6> heading tags
+    - <p></p>  paragraph tags
+    - <a></a> link tags
+    - href attribute
+        - - <img> image tags
+    - src attribute
+    - size attributes (width and height)
+    - alt attribute
+        - - <hr> tag
+        - - <br> tag
+        - - lists 
     <ol> ordered list element
     <ul> unordered list element
     <menu> menu element
