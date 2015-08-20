@@ -1,6 +1,6 @@
 # Lesson Planning Resources
 
-[**ACAObjectivesDoc**](https://github.com/AustinCodingAcademy/InstructorLessonPlanning/blob/master/ACAObjectivesDoc)
+[**ACAObjectivesDoc**](https://github.com/AustinCodingAcademy/InstructorLessonPlanning/blob/master/ACAObjectivesDoc.md)
 All the objectives that are covered in each class.
 
 [**LessonPlanDemo**](https://github.com/AustinCodingAcademy/InstructorLessonPlanning/blob/master/LessonPlanDemo.md)
