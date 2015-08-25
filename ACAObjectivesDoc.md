@@ -31,6 +31,7 @@
         - `<del></del>` deleted (line through) text
         - `<ins></ins>` inserted (underlines) text
         - `<blockquote></blockquote>` long quotes
+    - form syntax
 + Ways to implement CSS and the pros and cons of each
     - Within elements of HTML page
     - In the header of the HTML file
@@ -296,5 +297,3 @@
 
 
 
-
-*Concept covered in intro class
