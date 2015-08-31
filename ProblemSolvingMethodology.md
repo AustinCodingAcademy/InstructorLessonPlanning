@@ -40,3 +40,12 @@ The Problem Solving Methodology
 	* Use unit tests to demonstrate correctness
 	* Generate alternative solutions to the problem
 	* Evaluate the potential solutions and justify your choice
+
+Debugging Methodology
+---------------------
+
+1. Describe the error in **its most primitive form**
+2. Identify what specific statements in the source initiated the error
+3. Apply the error to the identified source and observe the results
+4. List all possible scenarios which result in what was observed
+5. Eliminate scenarios from the list that do not apply to this error
