@@ -187,7 +187,6 @@
     - do...while
     - break and continue keywords
     - infinite loops
-+ Processing user input via `$_GET` and `$_POST`
 + Debugging
     - Dissecting error messages
     - Manually stepping through source
@@ -283,7 +282,7 @@
             - `<textarea>`
             - `<select>`
             - `<option>`
-        - Accessing form values via PHP
+        - Accessing form values via PHP's `$_GET` and `$_POST`
 + HTTP
     - The HTTP protocol
         - Host
