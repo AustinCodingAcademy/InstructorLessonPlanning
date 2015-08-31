@@ -124,10 +124,29 @@
 
 ##Back End Intro
 + Variables
+    - Assignment
+    - Assignments as expressions
+    - Naming conventions
 + Strings
+    - Relevant functions
+        - `strlen()`
+        - `empty()`
+        - `strpos()`
+        - `str_replace()`
+        - `substr()`
 + Arrays
     - Nested Arrays
     - Keys
+    - Iteration
+    - Relevant functions
+        - `count()`
+        - `isset()`
+        - `array_sum()`
+        - `array_key_exists()`
+        - `array_keys()`
+        - `array_values()`
+        - `implode()`
+        - `explode()`
 + Operators
     - Arithmetic
         - `+`  addition 
@@ -150,34 +169,41 @@
         - `||`  -  OR
         - `!`  -  NOT
 + If and if/else statements
+    - DeMorgan's Laws
 + Values
+    - int
+    - float
+    - string
+    - boolean
+    - NULL
 + Typecasting
+    - truncation
 + Loops
-    - For
-    - For each
-    - While
-    - Do...while
-    - Break and continue keywords 
+    - for
+    - foreach
+    - while
+    - do...while
+    - break and continue keywords
+    - infinite loops
 + Processing user input via `$_GET` and `$_POST`
++ Debugging
+    - Dissecting error messages
+    - Manually stepping through source
+    - Print debugging
+    - Relevant functions
+        - `exit()`
+        - `die()`
+        - `gettype()`
+        - `print_r()`
 + Common Functions:
     - `phpinfo()`
     - `echo`
-    - `exit()`
-    - `die()`
-    - `strlen()`
-    - `set()`
-    - `unset()`
-    - `gettype()`
     - `rand()`
-    - `count()`
-    - `multiply_all()`
-    - `sum()`
     - `concatenate_strs()`
     - `print_r()`
     - `serialize() / unserialize()`
     - `file_put_contents()`
     - `file_get_contents()`
-    - `array_key_exists()`
     - `file_exists()`
     - `str_replace()`
 + HTML/CSS
