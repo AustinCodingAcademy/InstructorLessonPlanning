@@ -171,11 +171,13 @@
 + If and if/else statements
     - DeMorgan's Laws
 + Values
-    - int
-    - float
-    - string
-    - boolean
-    - NULL
+    * Primitive data types
+        - int
+        - float
+        - string
+        - boolean
+        - NULL
+    * Statements vs Expressions
 + Typecasting
     - truncation
 + Loops
@@ -195,40 +197,133 @@
         - `die()`
         - `gettype()`
         - `print_r()`
-+ Common Functions:
++ Functions
+    - Principles of software design
+        - Code reuse
+        - Encapsulation
+        - Testability
+    - Parameters
+    - Arguments
+    - `return` statement
+    - By value vs by reference
+    - Scope
+    - 3rd party library functions
++ Files
+    - The need for data persistence
+    - Absolute vs Relative paths
+    - File modes
+        - read
+        - write
+        - append
+    - Handles/Resources
+        - Connections
+        - Iteration
+        - Closing
+    - Custom formats
+    - Relevant functions
+        - `file_put_contents()`
+        - `file_get_contents()`
+        - `file_exists()`
++ Serialization
+    - The need for serialization
+    - PHP serialization
+        - Saving serialized data to files
+        - Reading serialized data from files and converting
+        - Understand limitations
+    - JSON serialization
+        - Portability
+        - Use in APIs
+    - Relevant functions
+        - `serialize()`
+        - `unserialize()`
+        - `json_encode()`
+        - `json_decode()`
++ Misc Functions:
     - `phpinfo()`
-    - `echo`
     - `rand()`
-    - `concatenate_strs()`
-    - `print_r()`
-    - `serialize() / unserialize()`
-    - `file_put_contents()`
-    - `file_get_contents()`
-    - `file_exists()`
-    - `str_replace()`
 + HTML/CSS
-    - Heading tags
-    - Body tags
-    - Block elements
-    - Inline elements
-    - `<p>` tags
-    - `<div>` tags
-    - `<span>` tags
-    - Headings
-    - Style tags vs. CSS files
-    - Id’s
-    - Classes
-    - Lists - `<ul></ul>`, `<li></li>`
-    - Padding
-    - Margin
-    - Border
-    - Background
-    - Types of spaces
-    - Images
-    - Anchor links
+    - Basic elements
+        - `<html>`
+        - `<head>`
+        - `<title>`
+        - `<body>`
+        - `<h1>`, `<h2>`, ...
+        - `<p>`
+        - `<em>`
+        - `<strong>`
+        - `<img>`
+        - `<ul>`
+        - `<ol>`
+        - `<a>`
+    - Styles
+        - Basic CSS selectors
+        - Basic CSS properties
+        - Elements used for sectioning
+            - `<div>` tags
+            - `<span>` tags
+        - ids
+        - classes
+        - Spacing and layout
+        - Padding
+        - Margin
+        - Border
+        - Background
     - Forms
-    
-
+        - GET vs POST requests
+        - Relationship between forms and the browser
+            - HTTP requests built from form data
+        - Form elements
+            - `<form>`
+            - `<input>`
+                - text
+                - password
+                - submit
+                - radio
+                - checkbox
+            - `<textarea>`
+            - `<select>`
+            - `<option>`
+        - Accessing form values via PHP
++ HTTP
+    - The HTTP protocol
+        - Host
+        - Protocol
+        - Requested resource
+        - Method
+        - Data
+    - Status codes
+    - Relationship with the browser
+    - Performing HTTP Requests with PHP
+    - Interaction with JSON APIs
+    - Session management
+        - Understanding state
+            - HTTP is stateless
+        - Sessions
+        - Cookies
++ Basics of web application development
+    - Users
+        - Authentication
+            - Password management
+        - Authorization
+    - Creating a local JSON data store
+        - Understand limitations and the need for a database
+    - Firebase integration
+    - JavaScript crash course
+        - The DOM
+        - Including JavaScript files
+        - JS console
+        - Declaring varibles
+        - Data types
+        - Declaring functions
+            - Anonymous functions
+        - jQuery
+            - Document ready
+            - Selectors
+            - Basic DOM manipulation
+            - AJAX
+                - Understanding the relationship between JS and PHP via AJAX
+                - Callbacks
+
 ##Back End Intermediate 
 + HTML
 + Syntax
