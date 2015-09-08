@@ -19,23 +19,25 @@ The need for methodology
 * "Programming isn't for everyone" is similar to the following falsehoods
 	+ math isn't for everyone
 	+ art isn't for everyone
-* Skill is influenced more by time, effort, and experience as opposed to raw talent
+* Skill is influenced more by efficient use of time and effort as opposed to raw talent
+* Practice does not make perfect: Perfect practice makes perfect.
 
 The Problem Solving Methodology
 -------------------------------
 
 1. Ask questions
 	* What is the problem?
+	* What information do we have to work with?
 	* When do we know when the problem is solved?
 	* What could make the problem hard to solve?
 	* Does the problem have similarities with a previously solved problem?
-2. Create objectives that address the questions
-3. Model a plan
+2. Model a plan
 	* Diagrams
 	* Pictures
 	* Patterns
-4. Iteratively solve each objective until a solution has been created
-5. Justify the solution
+3. When applicable, decompose the problem into a sequence of subproblems
+4. Apply the Problem Solving Methodology to each of the subproblems
+5. Justify the resulting solution
 	* Explain the purpose behind each line of code
 	* Use unit tests to demonstrate correctness
 	* Generate alternative solutions to the problem
