@@ -27,7 +27,7 @@ The Problem Solving Methodology
 
 1. **DESCRIBE** the problem
 2. **EXPLORE** the problem
-3. **DEFINE** what the problem means to be solved
+3. **DEFINE** what it means for the problem to be solved
 4. **CREATE** a solution
 5. **EVALUATE** the solution
 
