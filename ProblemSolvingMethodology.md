@@ -25,6 +25,13 @@ The need for methodology
 The Problem Solving Methodology
 -------------------------------
 
+1. What's the problem?
+2. When are we finished?
+3. How do we get there?
+
+Problem solving strategies
+--------------------------
+
 1. Ask questions
 	* What is the problem?
 	* What information do we have to work with?
@@ -35,13 +42,15 @@ The Problem Solving Methodology
 	* Diagrams
 	* Pictures
 	* Patterns
-3. When applicable, decompose the problem into a sequence of subproblems
-4. Apply the Problem Solving Methodology to each of the subproblems
-5. Justify the resulting solution
-	* Explain the purpose behind each line of code
-	* Use unit tests to demonstrate correctness
-	* Generate alternative solutions to the problem
-	* Evaluate the potential solutions and justify your choice
+3. Decompose the problem into a sequence of subproblems
+
+Problem solving verification
+----------------------------
+
+* Explain the purpose behind each line of code
+* Use unit tests to demonstrate correctness
+* Generate alternative solutions to the problem
+* Evaluate the potential solutions and justify your choice
 
 Debugging Methodology
 ---------------------
