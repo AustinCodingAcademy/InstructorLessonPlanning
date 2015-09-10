@@ -25,10 +25,12 @@ The need for methodology
 The Problem Solving Methodology
 -------------------------------
 
-1. **Identify** the problem
-2. **Explore** the problem
-3. **Create** a solution
-4. **Evaluate** the solution
+1. **DESCRIBE** the problem
+2. **EXPLORE** the problem
+3. **DEFINE** what the problem means to be solved
+4. **CREATE** a solution
+5. **EVALUATE** the solution
+
 
 Problem solving strategies
 --------------------------
